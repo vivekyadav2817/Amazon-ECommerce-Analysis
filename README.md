@@ -48,3 +48,15 @@ Designed an **interactive Power BI dashboard** featuring:
 ---
 
 ## 📁 Repository Structure  
+---
+
+## 🚀 Business Outcomes  
+✔ Identified **Platinum customers** as the most valuable segment  
+✔ Highlighted **May–June** for targeted marketing campaigns  
+✔ Provided strategies to **reduce return rates (27%)**  
+✔ Recommended improvements in **customer retention & regional performance**  
+
+---
+
+## ⭐ Key Takeaway  
+This project demonstrates how data visualization and analytics can transform raw e-commerce data into **strategic insights that drive revenue growth and operational efficiency**.
