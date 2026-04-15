@@ -57,7 +57,7 @@ Designed an **interactive Power BI dashboard** featuring:
 ✔ Recommended improvements in **customer retention & regional performance**  
 
 ## 📷 Dashboard Preview  
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.PNG)
 
 ## ⭐ Key Takeaway  
 This project demonstrates how data visualization and analytics can transform raw e-commerce data into **strategic insights that drive revenue growth and operational efficiency**.
